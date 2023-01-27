@@ -3,12 +3,35 @@
     <title>Digital Design Portfolio by Nic Fitzgerald</title>
     <link href="https://antiweb.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://antiweb.github.io/gh-pages" />
-    <updated>2023-01-23T14:09:07+00:00</updated>
+    <updated>2023-01-27T13:16:25+00:00</updated>
     <author>
         <name>Nic Fitzgerald</name>
     </author>
     <id>https://antiweb.github.io/gh-pages</id>
 
+    <entry>
+        <title>Page - test - 01</title>
+        <author>
+            <name>Nic Fitzgerald</name>
+        </author>
+        <link href="https://antiweb.github.io/gh-pages/test.html"/>
+        <id>https://antiweb.github.io/gh-pages/test.html</id>
+
+        <updated>2023-01-27T13:16:25+00:00</updated>
+            <summary>
+                <![CDATA[
+                    <figure class="post__image"><img loading="lazy"  src="https://antiweb.github.io/gh-pages/media/posts/3/1674340182209911.jpg" alt="" width="400" height="602" sizes="100vw" srcset="https://antiweb.github.io/gh-pages/media/posts/3/responsive/1674340182209911-xs.jpg 300w ,https://antiweb.github.io/gh-pages/media/posts/3/responsive/1674340182209911-sm.jpg 480w ,https://antiweb.github.io/gh-pages/media/posts/3/responsive/1674340182209911-md.jpg 768w ,https://antiweb.github.io/gh-pages/media/posts/3/responsive/1674340182209911-lg.jpg 1024w ,https://antiweb.github.io/gh-pages/media/posts/3/responsive/1674340182209911-xl.jpg 1360w ,https://antiweb.github.io/gh-pages/media/posts/3/responsive/1674340182209911-2xl.jpg 1600w"></figure>😬</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://antiweb.github.io/gh-pages/media/posts/3/1674340182209911.jpg" alt="" width="400" height="602" sizes="100vw" srcset="https://antiweb.github.io/gh-pages/media/posts/3/responsive/1674340182209911-xs.jpg 300w ,https://antiweb.github.io/gh-pages/media/posts/3/responsive/1674340182209911-sm.jpg 480w ,https://antiweb.github.io/gh-pages/media/posts/3/responsive/1674340182209911-md.jpg 768w ,https://antiweb.github.io/gh-pages/media/posts/3/responsive/1674340182209911-lg.jpg 1024w ,https://antiweb.github.io/gh-pages/media/posts/3/responsive/1674340182209911-xl.jpg 1360w ,https://antiweb.github.io/gh-pages/media/posts/3/responsive/1674340182209911-2xl.jpg 1600w"></figure>😬</p>
+
+<h1>dadasd😂</h1>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>About</title>
         <author>
