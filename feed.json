@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Digital Design Portfolio by Nic Fitzgerald",
+    "description": "",
+    "home_page_url": "https://antiweb.github.io/gh-pages",
+    "feed_url": "https://antiweb.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Nic Fitzgerald"
+    },
+    "items": [
+        {
+            "id": "https://antiweb.github.io/gh-pages/about.html",
+            "url": "https://antiweb.github.io/gh-pages/about.html",
+            "title": "About",
+            "summary": "Bio deets",
+            "content_html": "<h3 class=\"msg msg--info\">Bio deets</h3>\n<h3 class=\"msg msg--info\"><figure class=\"post__image\"><img loading=\"lazy\"  style=\"color: var(--headings-color); font-family: var(--font-base); font-size: 1.42383em; font-weight: var(--font-weight-bold); letter-spacing: var(--letter-spacing); outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;\" src=\"https://antiweb.github.io/gh-pages/media/posts/2/mshroom02.jpg\" alt=\"\" width=\"139\" height=\"105\" sizes=\"100vw\" srcset=\"https://antiweb.github.io/gh-pages/media/posts/2/responsive/mshroom02-xs.jpg 300w ,https://antiweb.github.io/gh-pages/media/posts/2/responsive/mshroom02-sm.jpg 480w ,https://antiweb.github.io/gh-pages/media/posts/2/responsive/mshroom02-md.jpg 768w ,https://antiweb.github.io/gh-pages/media/posts/2/responsive/mshroom02-lg.jpg 1024w ,https://antiweb.github.io/gh-pages/media/posts/2/responsive/mshroom02-xl.jpg 1360w ,https://antiweb.github.io/gh-pages/media/posts/2/responsive/mshroom02-2xl.jpg 1600w\"></figure></h3>",
+            "author": {
+                "name": "Nic Fitzgerald"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-23T14:08:13+00:00",
+            "date_modified": "2023-01-23T14:09:07+00:00"
+        },
+        {
+            "id": "https://antiweb.github.io/gh-pages/project-01.html",
+            "url": "https://antiweb.github.io/gh-pages/project-01.html",
+            "title": "Project - 01",
+            "summary": "Project - 01, lorem ipsum etc.",
+            "content_html": "<p class=\"dropcap\">Project - 01, lorem ipsum etc.</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://antiweb.github.io/gh-pages/media/posts/1/2022-06-29.png\" alt=\"\" width=\"621\" height=\"686\" sizes=\"100vw\" srcset=\"https://antiweb.github.io/gh-pages/media/posts/1/responsive/2022-06-29-xs.png 300w ,https://antiweb.github.io/gh-pages/media/posts/1/responsive/2022-06-29-sm.png 480w ,https://antiweb.github.io/gh-pages/media/posts/1/responsive/2022-06-29-md.png 768w ,https://antiweb.github.io/gh-pages/media/posts/1/responsive/2022-06-29-lg.png 1024w ,https://antiweb.github.io/gh-pages/media/posts/1/responsive/2022-06-29-xl.png 1360w ,https://antiweb.github.io/gh-pages/media/posts/1/responsive/2022-06-29-2xl.png 1600w\"><figcaption>Caption</figcaption></figure>\n<p class=\"dropcap\"> </p>",
+            "author": {
+                "name": "Nic Fitzgerald"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-23T14:04:56+00:00",
+            "date_modified": "2023-01-23T14:04:56+00:00"
+        }
+    ]
+}
